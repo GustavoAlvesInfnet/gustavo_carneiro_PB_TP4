@@ -1,0 +1,9 @@
+Primeiramente é recomendável a criação de um ambiente virtual via comando: python -m venv Venv
+
+Depois é necessário ativar o ambiente virtual via: .\Venv\Scripts\activate
+
+E então fazer o pip: pip install -r requirements.txt
+
+Por fim, só falta executar os códigos com o comando streamlit run '.\main\streamlit.py'.
+
+Para a api use: uvicorn api:app --reload

@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+env/
+logs/
+temp/
+*.log
+*.tmp
+*.env
+PBTP4/
+anotacoes/

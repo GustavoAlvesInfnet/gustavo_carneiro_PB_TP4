@@ -1,0 +1,12 @@
+pandas==2.2.2
+pypdf2<3.0.0
+streamlit==1.37.1
+matplotlib
+beautifulsoup4
+fastapi
+uvicorn
+selenium
+numpy
+cachetools
+sentence-transformers
+librosa
